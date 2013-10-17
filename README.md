@@ -5,7 +5,7 @@
 ## 1. Linux uppsetning
 
 Það gekk ekki vel að setja upp Ubuntu á tölvuna, ég setti upp VirtualBox á hana og reyndi síðan við að setja Ubuntu upp.
-Ég gerði tvær mismunandi tilraunur, fyrra skiptið notaði ég linkinn frá þér og importaði .ova file-inn 
+Ég gerði tvær mismunandi tilraunur, fyrra skiptið notaði ég linkinn frá MySchool og importaði .ova file-inum inn á VirtualBox 
 en þegar ég reyndi að logga inn kom alltaf svartur skjár. Svo næst prufaði ég að installa Ubuntu sjálfur inn og mounta .iso file
 það gekk eins, um leið og ég loggaði mig inn kom aðeins svartur skjár. Ég fann engar fljótlegar lausnir á þessu
 svo ég ákvað að gera verkefnið í Windows
